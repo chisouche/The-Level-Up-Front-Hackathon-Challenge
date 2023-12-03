@@ -1,5 +1,3 @@
-"# The-Level-Up-Front-Hackathon-Challenge" 
-Sure, a README file typically provides information about the project, its purpose, how to use it, and any other relevant details. Here's an example of what your README file might include:
 
 ---
 
